@@ -1,0 +1,43 @@
+p {
+  background-color: rgb(63, 65, 65);
+
+  padding-bottom: 30;
+  padding-left: 25px;
+  padding-right: 20px;
+  padding-top: 60px;
+}
+p {
+  height: 700px;
+  width: 600px;
+  border: 3px ridge blue;
+  margin-left: 30px;
+}
+.box2 {
+  padding: 10px;
+  background-color: black;
+  color: azure;
+}
+.p1 {
+  padding: 50px 30px 40px 45px;
+}
+.box3 {
+  background-color: black;
+  max-height: 300px;
+  max-width: 300px;
+  border: 2px dotted green;
+}
+#p2 {
+  height: 400px;
+  width: 250px;
+}
+.axm p {
+  height: 400px;
+  width: 250px;
+  border: 2px solid green;
+  margin-top: 20px;
+  padding: 30px;
+  margin-top: 20px;
+  padding: 30px;
+  outline: 2px dotted grey;
+  outline-offset: 4px;
+}
